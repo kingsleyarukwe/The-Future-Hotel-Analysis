@@ -1,5 +1,5 @@
 # The-Future-Hotel-Analysis
-Using booking data to derive insights and advice hotel management.
+Using booking data to derive insights and advice hotel management
 
 The longer the lead time, the higher the chances the booking will be canceled. While a 120-day lead time may be advisable based on available data, the hotel may exercise caution and aim for around or below a 90-day lead time.
 
