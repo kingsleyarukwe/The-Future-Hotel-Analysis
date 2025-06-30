@@ -17,3 +17,4 @@ While data from January till June 2017 is not available, hotel management needs 
 
 Room types 1 to 3 seem to be the cheapest (below $100), but only Room Type 1 gets more patronage. It is either Room Types 2 and 3 are not well set up, or they are not being promoted enough. Room Type 7 is the most expensive.
 
+Click **[full details](https://github.com/kingsleyarukwe/The-Future-Hotel-Analysis/tree/main/Visualizations)** for complete work.
